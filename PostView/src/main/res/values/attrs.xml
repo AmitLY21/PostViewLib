@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PostView">
+        <attr name="avatarImage" format="reference" />
+        <attr name="authorName" format="string" />
+        <attr name="location" format="string" />
+        <attr name="threeDotsButton" format="reference" />
+        <attr name="postImage" format="reference" />
+        <attr name="heartButton" format="reference" />
+        <attr name="numLikes" format="integer" />
+        <attr name="commentsButton" format="reference" />
+        <attr name="numComments" format="integer" />
+        <attr name="shareButton" format="reference" />
+    </declare-styleable>
+</resources>
